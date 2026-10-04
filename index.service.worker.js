@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791151232|2078442';
+const CACHE_VERSION = '1791152712|5472005';
 /** @type {string} */
 const CACHE_PREFIX = 'Rex Run-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
